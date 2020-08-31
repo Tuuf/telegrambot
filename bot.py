@@ -2,7 +2,7 @@ import telebot
 
 from veri import amerika,sterlin,frank,kanada,kuveytdinar,norveckron,sudiriyal,japyen,bulgarleva,romenleyi,ruble,riyaliran,yuan,katarriyali,pakistanrubi
 yazı="123"
-token='AAFIVxZRrc8416AIPXckdFuzN1H0fe5l46o'
+token='1177581846:AAFIVxZRrc8416AIPXckdFuzN1H0fe5l46o'
 #grupli
 bot = telebot.TeleBot(token)
 @bot.message_handler(commands=['start' ])
