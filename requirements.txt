@@ -1,2 +1,0 @@
-python-telegram-bot==12.7
-http==0.14
